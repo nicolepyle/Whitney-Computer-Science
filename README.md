@@ -1,1 +1,2 @@
-# Whitney-Computer-Science
+# Psychology
+
