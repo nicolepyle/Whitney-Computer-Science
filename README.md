@@ -20,6 +20,7 @@
     <li>Profiling and Behavioral Analysis</li>
     <li>Research and Program Development</li>
   </ul>
+  <a href="https://www.psychology.org/careers/forensic-psychologist/">Learn more about different colleges offering Psychology Majors</a>
  <img src=https://github.com/nicolepyle/Whitney-Computer-Science/assets/145697975/d0e8fc0a-4c51-442a-9187-f836abeae405)/>
 
   <h2>Clinical Psychology</h2>
