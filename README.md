@@ -21,7 +21,6 @@
   </ul>
   <a href="https://www.psychology.org/careers/forensic-psychologist/">Learn more about different colleges offering Psychology Majors</a>
  <img src=https://github.com/nicolepyle/Whitney-Computer-Science/assets/145697975/d0e8fc0a-4c51-442a-9187-f836abeae405)/>
-
   <h2>Clinical Psychology</h2>
     <p>Clinical Psychology is the study of mental and behavioral health issues. These psychologists specialize in diagnosing and treating mental health disorders; as well as provide therapy and different medical solutions and steps to take in order to achieve the best results in terms of your health.</p>
     <h4>Therapies</h4>
@@ -32,7 +31,7 @@
       <li>Family Therapy</li>
       <li>Psychodynamic Therapy</li>
     </ul>
-    ![Clinical Psychologist](https://img.freepik.com/premium-photo/young-woman-makes-entry-her-diary-looks-client_616001-1217.jpg?w=996)
+    <img src=https://th.bing.com/th/id/OIP.zREaYXppOSI1bU6Au8Eb_wHaE8?pid=ImgDet&rs=1/>
 
   <h2>Social Psychology</h2>
     <p>Social Psychology is the study of how our thoughts, emotions, and behaviors aare effected by the people we are surrounded by. It relies on social influence to study how our behaviors change depending on who the person we are with, and how they act when with us. Peoples emotions can change the way we feel, for example you are more likely to follow what your parents think about religion since that is what you were raised to believe.</p>
