@@ -33,7 +33,7 @@
       <li>Family Therapy</li>
       <li>Psychodynamic Therapy</li>
     </ul>
-    <img src=https://github.com/nicolepyle/Whitney-Computer-Science/assets/145697975/df3a46bf-3711-4a9d-bd06-d4c7496ffd92)/>
+    <img src=https://github.com/nicolepyle/website.github.io/assets/145697975/9ac9cd3e-77dc-45a3-908d-df0eb0c73f25)/>
 
   <h2>Social Psychology</h2>
     <p>Social Psychology is the study of how our thoughts, emotions, and behaviors aare effected by the people we are surrounded by. It relies on social influence to study how our behaviors change depending on who the person we are with, and how they act when with us. Peoples emotions can change the way we feel, for example you are more likely to follow what your parents think about religion since that is what you were raised to believe.</p>
