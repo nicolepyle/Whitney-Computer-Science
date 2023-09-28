@@ -45,5 +45,5 @@
       <li>Stanford Prison Experiment</li>
       <li>Festinger Cognitive Dissonance</li>
       <br>
-    <img src=https://github.com/nicolepyle/Whitney-Computer-Science/assets/145697975/8658e355-7301-4f55-a8d6-a0d479cdd243)/>
+    <img src=![image](https://github.com/nicolepyle/website.github.io/assets/145697975/60cbb3f3-ef7d-448c-9098-3b8310bc8ee0)/>
 </body>
